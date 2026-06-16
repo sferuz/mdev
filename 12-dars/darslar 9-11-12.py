@@ -23,7 +23,7 @@ print("x>y") if x>y else print("x<y")
 #
 #----------------------    11        dars 11
 
-# %%
+# ***
 
 
 zakaz=['osh','somsa','shashlik','anjir piyoz']
